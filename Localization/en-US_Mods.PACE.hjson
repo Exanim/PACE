@@ -5,4 +5,36 @@ Items: {
 		DisplayName: Cane Of Discipline
 		Tooltip: ""
 	}
+
+	SteelWorkBench: {
+		DisplayName: Steel Work Bench
+		Tooltip: ""
+	}
+
+	ArborialAgitator: {
+		DisplayName: Arborial Agitator
+		Tooltip: ""
+	}
+
+	ArborealAgitator: {
+		DisplayName: Arboreal Agitator
+		Tooltip: ""
+	}
+
+	WoodenShovel: {
+		Tooltip: ""
+		DisplayName: Wooden Shovel
+	}
+
+	ClayBrick: {
+		DisplayName: Clay Brick
+		Tooltip: ""
+	}
+
+	ClayFurnaceItem: {
+		DisplayName: Clay Furnace Item
+		Tooltip: ""
+	}
 }
+
+Tiles.SteelWorkBench.MapEntry: Steel Work Bench
