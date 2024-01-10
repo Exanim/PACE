@@ -1,7 +1,7 @@
 ﻿using Microsoft.Xna.Framework;
 using PACE.Items;
 using PACE.PaceMod;
-using PACE.PaceUtils;
+using PACE.Utils;
 using PACE.Tiles;
 using System;
 using System.IO;
