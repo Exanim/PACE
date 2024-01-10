@@ -35,6 +35,46 @@ Items: {
 		DisplayName: Clay Furnace Item
 		Tooltip: ""
 	}
+
+	TungstenChunk: {
+		Tooltip: ""
+		DisplayName: Tungsten Chunk
+	}
+
+	TinChunk: {
+		Tooltip: ""
+		DisplayName: Tin Chunk
+	}
+
+	SilverChunk: {
+		Tooltip: ""
+		DisplayName: Silver Chunk
+	}
+
+	PlatinumChunk: {
+		Tooltip: ""
+		DisplayName: Platinum Chunk
+	}
+
+	LeadChunk: {
+		Tooltip: ""
+		DisplayName: Lead Chunk
+	}
+
+	IronChunk: {
+		Tooltip: ""
+		DisplayName: Iron Chunk
+	}
+
+	GoldChunk: {
+		Tooltip: ""
+		DisplayName: Gold Chunk
+	}
+
+	CopperChunk: {
+		Tooltip: ""
+		DisplayName: Copper Chunk
+	}
 }
 
 Tiles.SteelWorkBench.MapEntry: Steel Work Bench

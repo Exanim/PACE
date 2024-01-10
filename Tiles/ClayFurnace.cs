@@ -2,7 +2,7 @@
 using System;
 using PACE.Items.Placeables.Machines;
 using PACE.PaceMod;
-using PACE.PaceUtils;
+using PACE.Utils;
 using PACE.TileEntities;
 using Terraria;
 using Terraria.Audio;
@@ -79,7 +79,7 @@ public class ClayFurnace : ModTile
 
     public override bool RightClick(int i, int j)
     {
-        TEClayFurnace thisCharger = PaceUtils.PaceUtils.FindTileEntity<TEClayFurnace>(i, j, 3, 2, 18);
+        TEClayFurnace thisCharger = Utils.PaceUtils.FindTileEntity<TEClayFurnace>(i, j, 3, 2, 18);
         Player localPlayer = Main.LocalPlayer;
         localPlayer.CancelSignsAndChests();
         PacePlayer mp = localPlayer.Pace();

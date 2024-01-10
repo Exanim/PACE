@@ -4,7 +4,7 @@ using Terraria.ObjectData;
 
 
 
-namespace PACE.PaceUtils;
+namespace PACE.Utils;
 
 public static class TileUtils
 {

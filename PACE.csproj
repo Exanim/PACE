@@ -13,6 +13,12 @@
     <None Remove="Items\Tools\ArborealAgitator.png" />
     <None Remove="Tiles\ClayFurnace.png" />
     <None Remove="Tiles\SteelWorkBench.png" />
+    <None Remove="UI\ChargeMeter.png" />
+    <None Remove="UI\ChargeMeterBorder.png" />
+    <None Remove="UI\ChargerWeaponSlot.png" />
+    <None Remove="UI\PowerCellSlot_Blood.png" />
+    <None Remove="UI\PowerCellSlot_Empty.png" />
+    <None Remove="UI\PowerCellSlot_Filled.png" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="tModLoader.CodeAssist" Version="0.1.*" />
